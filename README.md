@@ -5,4 +5,4 @@ Base project for playing around with ES2015. Setup with Gulp, Babel and Browseri
 Run `gulp` from the command line!
 
 The project is currently setup to transpile code under the _/src_ folder using the
-_/src/app.js_ file as an entry point. Transpiled code is packaged to dist/bundle.js
+_/src/app.js_ file as an entry point. Transpiled code is packaged to _dist/bundle.js_
